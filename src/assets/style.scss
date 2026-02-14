@@ -1,0 +1,102 @@
+@use '@/assets/variables.scss' as *;
+
+///////////////////////////////////////
+// Bulma
+///////////////////////////////////////
+
+// Load everything
+// @use 'bulma/css/bulma.css';
+
+// Override global Sass variables from the /utilities folder
+@use "bulma/sass/utilities" with(
+    $primary: $color-primary,
+    $link: $color-primary,
+    $warning: $color-secondary,
+    $family-primary: "'Prompt', system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+);
+
+// Load Bulma's base styles and themes (including the minireset)
+@use "bulma/sass/base";
+@use "bulma/sass/themes";
+
+// Elements
+@use "bulma/sass/elements/title";
+@use "bulma/sass/elements/button" with(
+    $button-ghost-background: $color-primary,
+    $button-ghost-color: white,
+    $button-ghost-hover-color: white,
+);
+@use "bulma/sass/elements/icon";
+@use "bulma/sass/elements/content";
+@use "bulma/sass/elements/block";
+@use "bulma/sass/elements/notification";
+@use "bulma/sass/elements/delete";
+
+// Grid
+@use "bulma/sass/grid/columns";
+
+// Components
+@use "bulma/sass/components/navbar" with (
+    $navbar-item-img-max-height: 50px,
+);
+@use "bulma/sass/components/card";
+
+// Form
+@use "bulma/sass/form/input-textarea";
+@use "bulma/sass/form/tools";
+
+// Helpers
+@use "bulma/sass/helpers/color";
+@use "bulma/sass/helpers/flexbox";
+@use "bulma/sass/helpers/spacing";
+@use "bulma/sass/helpers/typography";
+
+// Layout
+@use "bulma/sass/layout/section" with (
+    $section-padding-desktop: 30px 50px,
+    $section-padding-medium: 30px 50px,
+    $section-padding-large: 30px 50px,
+    $section-padding: 20px 20px
+);
+@use "bulma/sass/layout/footer" with (
+    $footer-background-color: $color-primary-select,
+    $footer-padding: 32px,
+);
+@use "bulma/sass/layout/container";
+@use "bulma/sass/layout/hero";
+
+
+///////////////////////////////////////
+// Custom CSS
+///////////////////////////////////////
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Prompt', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 16px;
+}
+
+.img-working-on, .img-books, .img-denis-kotnik, .img-iceberg {
+    border-radius: 6px;
+}
+
+.custom-color {
+    background-color: $color-primary-select;
+}
+
+.is-golden-main {
+    flex: 0 0 61.8%;
+}
+
+.is-golden-side {
+    flex: 0 0 38.2%;
+}
+
+@media (max-width: 768px) {
+    .is-golden-main,
+    .is-golden-side {
+        flex: 0 0 100%;
+    }
+}
