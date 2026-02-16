@@ -12,12 +12,10 @@
                     </div>
 
                     <div class="block">
-                        <h5 class="title is-5 has-text-warning">About my professional background</h5>
                         <p>I am a member of the European Association of Psychoanalytic Approaches Slovenia (EZPPS) and am training toward certification with the European Confederation of Psychoanalytic and Psychodynamic Psychotherapies (ECPPP) and the European Association for Psychotherapy (EAP).<br><br>I am completing my education at the Institute for Psychodynamic Psychotherapy in Ljubljana, where, as part of a four-year program, I have acquired extensive theoretical knowledge in psychodynamic and body-oriented psychotherapy.<br><br>An important part of my professional development is also my personal experience: more than 230 hours of individual psychodynamic psychotherapy with a selected psychodynamic psychotherapist, and more than 360 hours of experience in a closed psychodynamic group (a three-year process) led by a psychodynamic psychotherapist.</p>
                     </div>
 
                     <div class="block">
-                        <h5 class="title is-5 has-text-primary">About my personal path</h5>
                         <p>My interest has always been directed toward what is not immediately visible—questions of how people think, why we behave the way we do, and how inner conflicts are formed. After completing a master’s degree in artificial intelligence at the University of Ljubljana, my path led me toward psychoanalysis, philosophy, and the work of thinkers such as Socrates, René Descartes, Karl Marx, Sigmund Freud, Jacques Lacan, and Alain Badiou, who have shaped our understanding of the subject, desire, and the unconscious.<br><br>Over time, this interest evolved into a decision to pursue psychotherapeutic work—not as an intellectual project, but as a living relationship with another person.</p>
                     </div>
                 </div>
