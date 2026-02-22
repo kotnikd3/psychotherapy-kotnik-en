@@ -16,7 +16,7 @@
                     </div>
 
                     <div class="block">
-                        <p>My interest has always been directed toward what is not immediately visible—questions of how people think, why we behave the way we do, and how inner conflicts are formed. After completing a master’s degree in machine learning at the University of Ljubljana, my path led me toward psychoanalysis, philosophy, and the work of thinkers such as Socrates, René Descartes, Karl Marx, Sigmund Freud, Jacques Lacan, and Alain Badiou, who have shaped our understanding of the subject, desire, and the unconscious.<br><br>Over time, this interest evolved into a decision to pursue psychotherapeutic work—not as an intellectual project, but as a living relationship with another person.</p>
+                        <p>My interest has always been directed toward what is not immediately visible—questions of how people think, why we behave the way we do, and how inner conflicts are formed. After completing a master’s degree in machine learning at the Faculty of Computer and Information Science at the University of Ljubljana, my path led me toward psychoanalysis, philosophy, and the work of thinkers such as Socrates, René Descartes, Karl Marx, Sigmund Freud, Jacques Lacan, and Alain Badiou, who have shaped our understanding of the subject, desire, and the unconscious.<br><br>Over time, this interest evolved into a decision to pursue psychotherapeutic work—not as an intellectual project, but as a living relationship with another person.</p>
                     </div>
                 </div>
             </div>
