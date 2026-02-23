@@ -104,14 +104,15 @@
         <div class="container content">
             <h5 class="title is-5 has-text-primary">Is there solid empirical evidence that psychodynamic psychotherapy is effective?</h5>
             <div>
-                Psychodynamic psychotherapy is one of the longest-developed forms of psychotherapy, with a tradition of theoretical and clinical research spanning more than a century. Due to its well-established approach, it is recognized by many international healthcare systems and insurance providers as an appropriate form of psychotherapeutic treatment and is, in many countries, included in public health insurance programs. Below are several scientific studies that support its effectiveness.
+                Psychodynamic psychotherapy is one of the longest-developed forms of psychotherapy, with a tradition of theoretical and clinical research spanning more than a century. Due to its well-established approach, it is recognized by many international healthcare systems and insurance providers as an appropriate form of psychotherapeutic treatment and is, in many countries, included in public health insurance programs. Below are several scientific (meta)studies that support its effectiveness.
                 <br>
                 <ul>
-                    <li>Meta-analysis of 298 randomized controlled trials conducted between 1967 and 2022: <a href='https://www.tandfonline.com/doi/full/10.1080/02668734.2023.2197617?utm_source=researchgate.net&utm_medium=article' target='_blank' rel='noopener noreferrer'>A comprehensive overview of randomized controlled trials of psychodynamic psychotherapies</a>
+                    <li><a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC10168167/' target='_blank' rel='noopener noreferrer'>The status of psychodynamic psychotherapy as an empirically supported treatment for common mental disorders – an umbrella review based on updated criteria</a></li>
+                    <li><a href='https://www.tandfonline.com/doi/full/10.1080/02668734.2023.2197617?utm_source=researchgate.net&utm_medium=article' target='_blank' rel='noopener noreferrer'>A comprehensive overview of randomized controlled trials of psychodynamic psychotherapies</a>
                     </li>
-                    <li>American Psychological Association: <a href='https://www.apa.org/pubs/journals/releases/amp-65-2-98.pdf' target='_blank' rel='noopener noreferrer'>The Efficacy of Psychodynamic Psychotherapy</a>
+                    <li><a href='https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780128133736000040?via%3Dihub' target='_blank' rel='noopener noreferrer'>The efficacy of psychodynamic psychotherapy: an up-to-date review</a>
                     </li>
-                    <li>Science Direct: <a href='https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780128133736000040?via%3Dihub' target='_blank' rel='noopener noreferrer'>The efficacy of psychodynamic psychotherapy: an up-to-date review</a>
+                    <li><a href='https://www.apa.org/pubs/journals/releases/amp-65-2-98.pdf' target='_blank' rel='noopener noreferrer'>The Efficacy of Psychodynamic Psychotherapy</a>
                     </li>
                 </ul>
             </div>
