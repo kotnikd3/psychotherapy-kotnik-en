@@ -6,8 +6,8 @@
         </figure>
         <div class="hero-body">
             <div class="container">
-                <h2 class="title is-size-5-mobile is-size-3-tablet has-text-light">Psychotherapy Kotnik</h2>
-                <h3 class="subtitle is-size-6-mobile is-size-4-tablet has-text-light">Leeuwarden</h3>
+                <h1 class="title is-size-5-mobile is-size-3-tablet has-text-light">Psychotherapy Kotnik</h1>
+                <h2 class="subtitle is-size-6-mobile is-size-4-tablet has-text-light">Leeuwarden</h2>
             </div>
         </div>
     </section>
@@ -16,7 +16,7 @@
         <div class="container">
             <div class="columns is-vcentered">
                 <div class="column is-golden-main">
-                    <h5 class="title is-4 has-text-primary">Welcome!</h5>
+                    <h3 class="title is-4 has-text-primary">Welcome!</h3>
                     <p>
                         My name is Denis, and I offer <b>psychodynamic psychotherapy</b> in Leeuwarden, the Netherlands and online. I provide a calm, confidential space where we can slow down and explore what is happening beneath the surface of your thoughts, feelings, and relationships. <br><br>Psychodynamic psychotherapy is for anyone who feels stuck, overwhelmed, or disconnected — whether this is your first experience with therapy or you have worked with a therapist before. People often come with concerns such as anxiety, low mood, inner tension, low self-esteem, difficulties in relationships, or a sense that something is not quite right. <br><br>Together, we will explore recurring patterns, authentic emotional expression, and unconscious processes that may be shaping your life. Through this process, many people gain deeper self-understanding, emotional relief, and the possibility of more authentic and fulfilling ways of relating to themselves and others.
                     </p>
@@ -43,7 +43,7 @@
                     </figure>
                 </div>
                 <div class="column is-golden-main content">
-                    <h5 class="title is-5 has-text-primary">In a safe therapeutic space, we can work together on:</h5>
+                    <h4 class="title is-5 has-text-primary">In a safe therapeutic space, we can work together on:</h4>
                     <ul>
                         <li>Depression, anxiety, and panic attacks</li>
                         <li>Excessive worry, overwhelm, and persistent anxiety</li>

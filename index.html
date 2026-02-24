@@ -12,29 +12,48 @@
             }
         </style>
         <!-- Structured Data -->
-        <script type="application/ld+json">
+         <script type="application/ld+json">
             {
                 "@context": "https://schema.org",
-                "@type": "LocalBusiness",
-                "name": "Psychotherapy Kotnik in Leeuwarden, Friesland",
-                "description": "Psychotherapy Kotnik in Leeuwarden, Friesland provides psychodynamic psychotherapy focused on unconscious patterns, past experiences, and resolving inner conflicts.",
-                "url": "https://psychotherapy-kotnik.com",
-                "image": "https://psychotherapy-kotnik.com/static/logo.png",
-                "telephone": "+31 6 28865682",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "Polluxweg 20",
-                    "addressLocality": "Leeuwarden",
-                    "postalCode": "8938 AZ",
-                    "addressCountry": "NL"
-                },
-                "openingHours": "Mo-Fr 09:00-17:00",
-                "priceRange": "40–70€",
-                "founder": {
-                    "@type": "Person",
-                    "name": "Denis Kotnik",
-                    "jobTitle": "Psychotherapist"
-                }
+                "@graph": [
+                    {
+                        "@type": "Person",
+                        "@id": "https://www.psychotherapy-kotnik.com/denis-kotnik",
+                        "name": "Denis Kotnik",
+                        "description": "Denis Kotnik is a psychodynamic psychotherapist in Leeuwarden, Friesland.",
+                        "jobTitle": "Psychotherapeut",
+                        "image": "https://www.psychotherapy-kotnik.com/static/denis_kotnik.webp",
+                        "url": "https://www.psychotherapy-kotnik.com",
+                        "sameAs": [
+                            "https://www.linkedin.com/in/denis-kotnik/",
+                            "https://www.facebook.com/kotnikd3"
+                        ],
+                        "worksFor": {
+                            "@id": "https://www.psychotherapy-kotnik.com"
+                        }
+                    },
+                    {
+                        "@type": "MedicalBusiness",
+                        "@id": "https://www.psychotherapy-kotnik.com",
+                        "name": "Psychotherapy Kotnik in Leeuwarden, Friesland",
+                        "description": "Psychotherapy Kotnik in Leeuwarden, Friesland provides psychodynamic psychotherapy focused on unconscious patterns, past experiences, and resolving inner conflicts.",
+                        "image": "https://www.psychotherapy-kotnik.com/static/denis_kotnik.webp",
+                        "url": "https://www.psychotherapy-kotnik.com",
+                        "telephone": "+31 6 28865682",
+                        "priceRange": "€70",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Polluxweg 20",
+                            "addressLocality": "Leeuwarden",
+                            "postalCode": "8938 AZ",
+                            "addressCountry": "NL"
+                        },
+                        "openingHours": "Mo-Fr 09:00-17:00",
+                        "founder": {
+                            "@id": "https://www.psychotherapy-kotnik.com/denis-kotnik"
+                        }
+                    }
+                ]
             }
         </script>
 

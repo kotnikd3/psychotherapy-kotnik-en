@@ -3,7 +3,7 @@
         <div class="container">
             <div class="columns is-vcentered">
                 <div class="column is-golden-main content">
-                    <h5 class="title is-5 has-text-primary">What is Psychodynamic Psychotherapy?</h5>
+                    <h3 class="title is-5 has-text-primary">What is Psychodynamic Psychotherapy?</h3>
                     <p>
                         Psychodynamic psychotherapy is a <b>talking treatment</b> based on idea that thoughts and feelings that you may not be aware of can cause problems such as anxiety, depression, poor self esteem, and difficulty with relationships. One way that we deal with painful or difficult thoughts and feelings is to put them out of our minds–that is, to make them <strong>unconscious</strong>. But even though we do not think about them, those unconscious thoughts and feelings affect how we think, feel, and behave. For example, it might be hard for you to have angry feelings towards someone you love because you think you shouldn’t have them. Nevertheless, they might continue to affect your relationship. Psychodynamic psychotherapy provides a space for developing new, healthier ways of coping with these issues.
                     </p>
@@ -17,7 +17,7 @@
 
     <section class="section">
         <div class="container content">
-            <h5 class="title is-5 has-text-primary">In psychodynamic psychotherapy, you will do several things to become more aware of unconscious thoughts and feelings:</h5>
+            <h3 class="title is-5 has-text-primary">In psychodynamic psychotherapy, you will do several things to become more aware of unconscious thoughts and feelings:</h3>
             <div>
                 <ul>
                     <li>
@@ -47,19 +47,19 @@
             <div class="columns is-vcentered">
                 <div class="column is-golden-main content">
                     <div class="block">
-                        <h5 class="title is-5 has-text-warning">Why is it called psychodynamic psychotherapy?</h5>
+                        <h3 class="title is-5 has-text-warning">Why is it called psychodynamic psychotherapy?</h3>
                         <p>“Psych“ means mind, and “dynamic“ refers to moving forces. Your thoughts and feelings can be thought of as mental forces. They are constantly in motion and often conflict with one another. Learning about these forces and conflicts can help you to understand how you think, feel, and behave.</p>
                     </div>
                     <div class="block">
-                        <h5 class="title is-5 has-text-primary">How long will this therapy take?</h5>
+                        <h3 class="title is-5 has-text-primary">How long will this therapy take?</h3>
                         <p>Psychodynamic psychotherapy can be short term for specific problems like panic attacks, or long term for problems with self-esteem, relationships, and coping with stress. It’s taken you a long time to develop these patterns, so they may take a while to change. Long term psychotherapy can last a year or longer. It is an “open ended” treatment, meaning that it lasts as long as needed to accomplish the goals that you and your therapist set. At the same time as you are working towards long term goals, you and your therapist may work on shorter term goals such as dealing with stress in your daily life.</p>
                     </div>
                     <div class="block">
-                        <h5 class="title is-5 has-text-primary">Why do I need to come once or twice a week?</h5>
+                        <h3 class="title is-5 has-text-primary">Why do I need to come once or twice a week?</h3>
                         <p>Coming more frequently will help you become aware of thoughts and feelings underlying many types of problems. When you come less frequently, you are likely to spend most of your time just reporting on what happened since your last session.</p>
                     </div>
                     <div class="block">
-                        <h5 class="title is-5 has-text-warning">Will my therapist talk?</h5>
+                        <h3 class="title is-5 has-text-warning">Will my therapist talk?</h3>
                         <p>Of course. You do not do all of the work and your therapist does not do all of the work. You and your therapist will work together in a partnership. Your therapist may listen, take notes, ask questions, and help you to notice unconscious thoughts, feelings, and problematic patterns.</p>
                     </div>
                 </div>
@@ -74,11 +74,11 @@
         <div class="container">
             <div class="columns">
                 <div class="column is-golden-side">
-                    <h5 class="title is-5 has-text-primary">Should I really say whatever comes to mind?</h5>
+                    <h3 class="title is-5 has-text-primary">Should I really say whatever comes to mind?</h3>
                     <p>What if it’s not “relevant“? Yes, you should really say whatever comes to mind, and you should not try to judge whether it is “relevant” or not. That “irrelevant” thought could lead you to an important thought or feeling you did not even know you had.</p>
                 </div>
                 <div class="column is-golden-main">
-                    <h5 class="title is-5 has-text-warning">It feels strange to talk directly about my therapist—should I even say negative things?</h5>
+                    <h3 class="title is-5 has-text-warning">It feels strange to talk directly about my therapist—should I even say negative things?</h3>
                     <p>You are right—this is a strange thing to do—but it’s an important way to learn about your relationships. For example, exploring why you get upset with your therapist might help you to understand why you get upset with other people. It may also help you to develop new and healthier ways to deal with other people in your life.</p>
                 </div>
             </div>
@@ -89,11 +89,11 @@
         <div class="container">
             <div class="columns">
                 <div class="column is-golden-main">
-                    <h5 class="title is-5 has-text-warning">How come my therapist learns all about me and I don’t learn much about him or her?</h5>
+                    <h3 class="title is-5 has-text-warning">How come my therapist learns all about me and I don’t learn much about him or her?</h3>
                     <p>Although you’d think that knowing a lot about your therapist would be helpful, the opposite is actually true. Not knowing much about your therapist allows you to really be yourself with him or her. For example, if you’re very angry at your parents for getting divorced and you find out that your therapist is divorced, it might make it hard for you to speak freely about your parents. If you get frustrated about this, be sure to discuss it in a session.</p>
                 </div>
                 <div class="column is-golden-side">
-                    <h5 class="title is-5 has-text-primary">Can I be in psychodynamic psychotherapy and take medication at the same time?</h5>
+                    <h3 class="title is-5 has-text-primary">Can I be in psychodynamic psychotherapy and take medication at the same time?</h3>
                     <p>Absolutely—if you and your psychiatrist think that you would benefit from taking medication, you can do both at the same time. In fact, it is very common for people to do both. If you are depressed or anxious, taking medication may help your symptoms and help the psychotherapy. If you are taking medication while you’re in psychotherapy, talking about this with your therapist can help you to learn about your feelings about being anxious or depressed.</p>
                 </div>
             </div>
@@ -102,7 +102,7 @@
 
     <section class="section">
         <div class="container content">
-            <h5 class="title is-5 has-text-primary">Is there solid empirical evidence that psychodynamic psychotherapy is effective?</h5>
+            <h3 class="title is-5 has-text-primary">Is there solid empirical evidence that psychodynamic psychotherapy is effective?</h3>
             <div>
                 Psychodynamic psychotherapy is one of the longest-developed forms of psychotherapy, with a tradition of theoretical and clinical research spanning more than a century. Due to its well-established approach, it is recognized by many international healthcare systems and insurance providers as an appropriate form of psychotherapeutic treatment and is, in many countries, included in public health insurance programs. Below are several scientific (meta)studies that support its effectiveness.
                 <br>

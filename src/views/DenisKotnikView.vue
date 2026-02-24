@@ -7,7 +7,7 @@
                 </div>
                 <div class="column is-golden-main">
                     <div class="block">
-                        <h5 class="title is-5 has-text-primary">About me</h5>
+                        <h3 class="title is-5 has-text-primary">About me</h3>
                         <p>My name is Denis Kotnik. I am a trainee in psychodynamic psychotherapy, working under regular supervision by a psychodynamic and psychoanalytic psychotherapist and psychoanalyst. In my therapeutic work, I strive to create a safe and reliable space in which inner experiences, relationships, and recurring patterns—often those operating outside of conscious awareness—can be explored.<br><br>I live in Leeuwarden in the Netherlands and also work online; occasionally, I also practice in Trebnje, Slovenia. Although I understand Dutch, I currently prefer to conduct therapy sessions in English or Slovene. I understand psychotherapeutic work as a process that requires time, patience, and relationship—a space in which experiences that go beyond conscious language can be held.</p>
                     </div>
 
@@ -35,7 +35,7 @@
 
     <section class="section">
         <div class="container">
-            <h5 class="title is-5 has-text-primary">Links</h5>
+            <h3 class="title is-5 has-text-primary">Links</h3>
             <div class="columns is-multiline is-centered has-text-centered is-mobile is-vcentered">
                 <div class="column is-2-desktop is-one-third-mobile">
                     <figure>
