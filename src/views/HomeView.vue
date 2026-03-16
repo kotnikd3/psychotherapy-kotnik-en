@@ -2,7 +2,7 @@
     <!-- Hero -->
     <section class="hero is-medium">
         <figure>
-            <img  src="@/assets/images/home_hero_top.webp"  alt="Home_image" class="hero-bg-img"/>
+            <img src="@/assets/images/home_hero_top.webp"  alt="Home_image" class="hero-bg-img"/>
         </figure>
         <div class="hero-body">
             <div class="container">
@@ -144,6 +144,7 @@ export default {
     .hero {
         position: relative;
         overflow: hidden;
+        box-shadow: 0 0 10px 2px #516594;
     }
 
     .hero-bg-img {
