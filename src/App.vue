@@ -59,12 +59,6 @@
         </div>
     </section>
 
-    <div class="container">
-        <div class="notification is-info has-text-centered is-size-4 p-2 mb-4">
-            <p>My psychotherapy practice will begin in April 2026.</p>
-        </div>
-    </div>
-
     <footer class="footer">
         <div class="container">
             <div class="columns is-mobile is-multiline is-centered">

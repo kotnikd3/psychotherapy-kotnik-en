@@ -73,10 +73,10 @@
     <section class="section">
         <div class="container">
             <div class="columns is-centered has-text-centered">
-                <div class="column is-one-third">
+                <div class="column is-half">
                     <div class="card">
                         <header class="card-header">
-                            <p class="card-header-title is-centered">Intake conversation</p>
+                            <p class="card-header-title is-centered">Intake conversation (50 min)</p>
                         </header>
                         <div class="card-content">
                             <p class="price">
@@ -88,10 +88,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="column is-one-third">
+                <div class="column is-half">
                     <div class="card">
                         <header class="card-header">
-                            <p class="card-header-title is-centered">Psychodynamic Psychotherapy once per week</p>
+                            <p class="card-header-title is-centered">Psychodynamic Psychotherapy (50 min)</p>
                         </header>
                         <div class="card-content">
                             <p class="price">
@@ -102,32 +102,6 @@
                             </p>
                         </div>
                     </div>
-                </div>
-                <div class="column is-one-third">
-                    <div class="card">
-                        <header class="card-header">
-                            <p class="card-header-title is-centered">Psychodynamic Psychotherapy twice per week</p>
-                        </header>
-                        <div class="card-content">
-                            <p class="price">
-                                <span class="currency">
-                                    <font-awesome-icon icon="fa-solid fa-euro-sign" />
-                                </span>
-                                <span class="amount">60</span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="columns has-text-centered is-mobile is-centered">
-                <div class="column is-half-mobile is-narrow-tablet">
-                    <p class="title has-text-primary"><font-awesome-icon icon="fa-regular fa-clock" /></p>
-                    <p>Each session lasts <b>50 minutes</b>.</p>
-                </div>
-                <div class="column is-half-mobile is-narrow-tablet">
-                    <p class="title has-text-primary"><font-awesome-icon icon="fa-solid fa-language" /></p>
-                    <p>Sessions are available in <b>English</b> or <b>Slovenian</b>.</p>
                 </div>
             </div>
         </div>
