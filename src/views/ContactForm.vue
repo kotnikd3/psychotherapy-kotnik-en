@@ -18,6 +18,16 @@
                 </span>
             </div>
         </div>
+        <!-- Phone -->
+        <div class="field">
+            <label class="label">Phone</label>
+            <div class="control has-icons-left">
+                <input class="input" type="tel" placeholder="Phone number (not mandatory)" v-model="form.phone">
+                <span class="icon is-small is-left">
+                    <font-awesome-icon icon="fa-solid fa-phone" />
+                </span>
+            </div>
+        </div>
         <!-- Message -->
         <div class="field">
             <label class="label">Message</label>
@@ -55,6 +65,7 @@
                     name: '',
                     email: '',
                     message: '',
+                    phone: ''
                 },
                 notificationSuccess: {
                     show: false,
@@ -72,7 +83,7 @@
                 this.isLoading = true;
                 
                 // service key, template key, form data, {public key}
-                emailjs.send('service_3w3cg7n', 'template_x1daw2i', this.form, {publicKey: 'V62KdOFyQ_XL6WTtd'})
+                emailjs.send('service_therapy_kotnik', 'template_x1daw2i', this.form, {publicKey: 'V62KdOFyQ_XL6WTtd'})
                 .then(
                     () => {
                         console.log('Email sent!');
@@ -81,7 +92,7 @@
                         this.notificationSuccess.show = true;
 
                         // Reset form after success
-                        this.form = { name: '', email: '', message: '' };
+                        this.form = { name: '', email: '', message: '', phone: '' };
                     },
                     (error) => {
                         console.log('Error: ', error.text);
