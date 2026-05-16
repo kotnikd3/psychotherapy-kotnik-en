@@ -12,7 +12,7 @@
     $primary: $color-primary,
     $link: $color-primary,
     $warning: $color-secondary,
-    $family-primary: "'Prompt', system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+    $family-primary: "'Open Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
 );
 
 // Load Bulma's base styles and themes (including the minireset)
@@ -74,8 +74,11 @@ html {
 }
 
 body {
-    font-family: 'Prompt', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-    font-size: 16px;
+    font-family: 'Open Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    font-stretch: normal;
 }
 
 .img-working-on, .img-iceberg, .img-books, .img-denis-kotnik {

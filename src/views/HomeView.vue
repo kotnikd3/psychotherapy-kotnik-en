@@ -6,8 +6,8 @@
         </figure>
         <div class="hero-body">
             <div class="container">
-                <h1 class="title is-size-5-mobile is-size-3-tablet has-text-light">Psychotherapy Kotnik</h1>
-                <h2 class="subtitle is-size-6-mobile is-size-4-tablet has-text-light">Leeuwarden</h2>
+                <h1 class="title is-size-5-mobile is-size-3-tablet has-text-light">Psychotherapy in Leeuwarden for Expats</h1>
+                <h2 class="subtitle is-size-6-mobile is-size-4-tablet has-text-light">Psychotherapy Kotnik</h2>
             </div>
         </div>
     </section>
@@ -18,16 +18,20 @@
                 <div class="column is-golden-main">
                     <h3 class="title is-4 has-text-primary">Welcome!</h3>
                     <p>
-                        My name is Denis, and I offer <b>psychodynamic psychotherapy</b> in Leeuwarden, the Netherlands and online. I provide a calm, confidential space where we can slow down and explore what is happening beneath the surface of your thoughts, feelings, and relationships. <br><br>Psychodynamic psychotherapy is for anyone who feels stuck, overwhelmed, or disconnected — whether this is your first experience with therapy or you have worked with a therapist before. People often come with concerns such as anxiety, low mood, inner tension, low self-esteem, difficulties in relationships, or a sense that something is not quite right. <br><br>Together, we will explore recurring patterns, authentic emotional expression, and unconscious processes that may be shaping your life. Through this process, many people gain deeper self-understanding, emotional relief, and the possibility of more authentic and fulfilling ways of relating to themselves and others.
+                        My name is Denis and I offer <b>psychodynamic psychotherapy</b> in Leeuwarden. I incorporate body-based techniques into the therapeutic process, as emotions and impulses are always present in the body as well. The combination of psychoanalytic understanding and body-oriented work allows for lasting change and for processes to unfold here and now — within a safe and accepting therapeutic relationship.
+                        <br><br>
+                        Psychodynamic psychotherapy is intended for anyone who feels stuck, overwhelmed, or disconnected — whether this is your first experience with psychotherapy or you have been in therapy before. People often come with issues such as anxiety, depression, inner tension, low self-esteem, relationship difficulties, or a general sense that something is not right.
+                        <br><br>
+                        Together we will explore recurring patterns, authentic emotional expression, and unconscious processes that may influence your life. Through this process, many people gain a deeper understanding of themselves, emotional relief, and the possibility of more authentic and fulfilling relationships with themselves and others.
                     </p>
                     <div class="has-text-centered pt-6">
-                        <RouterLink class="button is-primary is-outlined" :to="{ name: 'psychodynamic_psychotherapy' }">More about psychotherapy</RouterLink>
+                        <RouterLink class="button is-primary is-outlined" :to="{ name: 'about_psychotherapy' }">More about psychotherapy</RouterLink>
                     </div>
                 </div>
                 <div class="column is-golden-side has-text-centered">
                     <img class="img-denis-kotnik" src="@/assets/images/denis_1.webp" alt="Denis_Kotnik_1" style="width: 70%;">
                     <div class="pt-2">
-                        <RouterLink class="button is-warning is-outlined" :to="{ name: 'denis_kotnik' }">More about me</RouterLink>
+                        <RouterLink class="button is-warning is-outlined" :to="{ name: 'about_me' }">More about me</RouterLink>
                     </div>
                 </div>
             </div>
@@ -65,7 +69,7 @@
     </section>
     <section class="section">
         <div class="container">
-            <p class="is-italic has-text-warning is-size-5 has-text-centered">
+            <p class="is-italic has-text-warning has-text-centered">
                 The longest journey is the one that brings you closest to yourself,<br>and the hardest practice is the one that gives rise to the simplest melody.<br><br>— Rabindranath Tagore
             </p>
         </div>
@@ -134,16 +138,15 @@ export default {
     .price {
         display: inline-flex;
         align-items: flex-start;
-        font-weight: 700;
     }
 
     .price .currency {
-        font-size: 0.90em;
+        font-size: 0.8em;
         line-height: 1;
     }
 
     .price .amount {
-        font-size: 2.5rem;
+        font-size: 2rem;
         line-height: 1;
     }
 
