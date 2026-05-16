@@ -18,7 +18,7 @@
                 <div class="column is-golden-main">
                     <h3 class="title is-4 has-text-primary">Welcome!</h3>
                     <p>
-                        My name is Denis and I offer <b>psychodynamic psychotherapy</b> in Leeuwarden. I incorporate body-based techniques into the therapeutic process, as emotions and impulses are always present in the body as well. The combination of psychoanalytic understanding and body-oriented work allows for lasting change and for processes to unfold here and now — within a safe and accepting therapeutic relationship.
+                        My name is Denis and I offer <b>psychodynamic psychotherapy</b> in Leeuwarden and online. I incorporate body-based techniques into the therapeutic process, as emotions and impulses are always present in the body as well. The combination of psychoanalytic understanding and body-oriented work allows for lasting change and for processes to unfold here and now — within a safe and accepting therapeutic relationship.
                         <br><br>
                         Psychodynamic psychotherapy is intended for anyone who feels stuck, overwhelmed, or disconnected — whether this is your first experience with psychotherapy or you have been in therapy before. People often come with issues such as anxiety, depression, inner tension, low self-esteem, relationship difficulties, or a general sense that something is not right.
                         <br><br>
