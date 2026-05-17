@@ -2,7 +2,7 @@
     <!-- Hero -->
     <section class="hero is-medium">
         <figure>
-            <img src="@/assets/images/home_hero_top.webp"  alt="Home_image" class="hero-bg-img"/>
+            <img src="@/assets/images/sea_2.webp"  alt="Home_image" class="hero-bg-img"/>
         </figure>
         <div class="hero-body">
             <div class="container">
@@ -43,7 +43,7 @@
             <div class="columns is-vcentered">
                 <div class="column is-golden-side has-text-centered">
                     <figure class="image">
-                        <img class="img-working-on" src="@/assets/images/home_hero_bottom_left.webp" alt="Working_on_psychotherapy_image">
+                        <img class="img-working-on" src="@/assets/images/underwater_ladder_1.jpg" alt="Working_on_psychotherapy_image">
                     </figure>
                 </div>
                 <div class="column is-golden-main content">
@@ -132,7 +132,7 @@ export default {
         width: 100%;
         height: 100%;
         object-fit: cover;
-        object-position: 100% 80%;
+        object-position: 100% 78%;
     }
 
     .price {
