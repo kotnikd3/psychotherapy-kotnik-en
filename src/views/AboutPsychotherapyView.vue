@@ -55,7 +55,7 @@
                         <p>Psychodynamic psychotherapy can be short term for specific problems like panic attacks, or long term for problems with self-esteem, relationships, and coping with stress. It’s taken you a long time to develop these patterns, so they may take a while to change. Long term psychotherapy can last a year or longer. It is an “open ended” treatment, meaning that it lasts as long as needed to accomplish the goals that you and your therapist set. At the same time as you are working towards long term goals, you and your therapist may work on shorter term goals such as dealing with stress in your daily life.</p>
                     </div>
                     <div class="block">
-                        <h3 class="title is-5 has-text-primary">Why do I need to come once or twice a week?</h3>
+                        <h3 class="title is-5 has-text-primary">Why do I need to come every week?</h3>
                         <p>Coming more frequently will help you become aware of thoughts and feelings underlying many types of problems. When you come less frequently, you are likely to spend most of your time just reporting on what happened since your last session.</p>
                     </div>
                     <div class="block">
