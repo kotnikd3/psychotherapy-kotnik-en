@@ -2,7 +2,7 @@
     <!-- Hero -->
     <section class="hero is-medium">
         <figure>
-            <img src="@/assets/images/sea_2.webp"  alt="Home_image" class="hero-bg-img"/>
+            <img src="@/assets/images/sea_1.webp"  alt="Home_image" class="hero-bg-img"/>
         </figure>
         <div class="hero-body">
             <div class="container">
@@ -18,19 +18,19 @@
                 <div class="column is-golden-main">
                     <h3 class="title is-4 has-text-primary">Welcome!</h3>
                     <p>
-                        My name is Denis and I offer <b>psychodynamic psychotherapy</b> in Leeuwarden and online. I incorporate body-based techniques into the therapeutic process, as emotions and impulses are always present in the body as well. The combination of psychoanalytic understanding and body-oriented work allows for lasting change and for processes to unfold here and now — within a safe and accepting therapeutic relationship.
+                        My name is Denis and I offer <b>psychodynamic psychotherapy</b> in Leeuwarden, The Netherlands, and online. I incorporate body-based techniques into the therapeutic process, as emotions and impulses are always present in the body as well. The combination of psychoanalytic understanding and body-oriented work allows for lasting change and for processes to unfold here and now — within a safe and accepting therapeutic relationship.
                         <br><br>
                         Psychodynamic psychotherapy is intended for anyone who feels stuck, overwhelmed, or disconnected — whether this is your first experience with psychotherapy or you have been in therapy before. People often come with issues such as anxiety, depression, inner tension, low self-esteem, relationship difficulties, or a general sense that something is not right.
                         <br><br>
                         Together we will explore recurring patterns, authentic emotional expression, and unconscious processes that may influence your life. Through this process, many people gain a deeper understanding of themselves, emotional relief, and the possibility of more authentic and fulfilling relationships with themselves and others.
                     </p>
-                    <div class="has-text-centered pt-6">
+                    <div class="has-text-centered py-5">
                         <RouterLink class="button is-primary is-outlined" :to="{ name: 'about_psychotherapy' }">More about psychotherapy</RouterLink>
                     </div>
                 </div>
                 <div class="column is-golden-side has-text-centered">
                     <img class="img-denis-kotnik" src="@/assets/images/denis_1.webp" alt="Denis_Kotnik_1" style="width: 70%;">
-                    <div class="pt-2">
+                    <div class="pt-5">
                         <RouterLink class="button is-warning is-outlined" :to="{ name: 'about_me' }">More about me</RouterLink>
                     </div>
                 </div>
@@ -132,7 +132,7 @@ export default {
         width: 100%;
         height: 100%;
         object-fit: cover;
-        object-position: 100% 78%;
+        object-position: 100% 52%;
     }
 
     .price {

@@ -91,7 +91,7 @@
                                 <span class="icon">
                                     <font-awesome-icon icon="fa-solid fa-location-dot" />
                                 </span>
-                                <span>Leeuwarden</span>
+                                <span>Leeuwarden, The Netherlands</span>
                             </div>
                         </li>
                         <li>
