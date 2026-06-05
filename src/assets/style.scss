@@ -60,7 +60,7 @@
 );
 @use "bulma/sass/layout/footer" with (
     $footer-background-color: $color-primary-select,
-    $footer-padding: 32px,
+    $footer-padding: 60px,
 );
 @use "bulma/sass/layout/container";
 @use "bulma/sass/layout/hero";
