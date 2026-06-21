@@ -58,12 +58,12 @@
             <ContactForm></ContactForm>
         </div>
     </section>
-    
+
     <footer class="footer">
         <div class="container">
-            <div class="columns is-mobile is-centered">
+            <div class="columns is-mobile is-multiline">
                 <!-- Contact -->
-                <div class="column is-one-third-mobile is-narrow">
+                <div class="column is-half-mobile is-offset-3-desktop is-3-desktop">
                     <h6><strong>Contact</strong></h6>
                     <ul class="mt-3">
                         <li>
@@ -77,7 +77,7 @@
                     </ul>
                 </div>
                 <!-- Links -->
-                <div class="column is-one-third-mobile is-narrow">
+                <div class="column is-half-mobile is-2-desktop">
                     <h6><strong>Links</strong></h6>
                     <ul class="mt-3">
                         <li><RouterLink :to="{ name: 'home' }">Psychotherapy Kotnik</RouterLink></li>
@@ -86,7 +86,7 @@
                     </ul>
                 </div>
                 <!-- My Practice Locations -->
-                <div class="column is-one-third-mobile is-narrow">
+                <div class="column is-full-mobile is-4-desktop">
                     <h6><strong>My Practice Locations</strong></h6>
                     <ul class="mt-3">
                         <li>
@@ -94,7 +94,7 @@
                                 <span class="icon">
                                     <font-awesome-icon icon="fa-solid fa-location-dot" />
                                 </span>
-                                <span>Leeuwarden, The Netherlands</span>
+                                <span>Leeuwarden<br>The Netherlands</span>
                             </div>
                         </li>
                         <li>
@@ -109,7 +109,7 @@
                 </div>
             </div>
 
-            <div class="columns is-multiline is-centered is-vcentered">
+            <div class="columns is-mobile is-multiline is-centered is-vcentered">
                 <div class="column is-1-desktop is-one-third-mobile">
                     <figure>
                         <a href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">
