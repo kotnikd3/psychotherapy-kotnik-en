@@ -58,13 +58,14 @@
             <ContactForm></ContactForm>
         </div>
     </section>
-
+    
     <footer class="footer">
         <div class="container">
-            <div class="columns is-mobile is-multiline is-centered">
-                <div class="column is-half-mobile is-narrow">
-                    <h6 class="title is-6 has-text-primary"><strong>Contact</strong></h6>
-                    <ul>
+            <div class="columns is-mobile is-centered">
+                <!-- Contact -->
+                <div class="column is-one-third-mobile is-narrow">
+                    <h6><strong>Contact</strong></h6>
+                    <ul class="mt-3">
                         <li>
                             <a href="mailto:info@psychotherapy-kotnik.com" class="icon-text">
                                 <span class="icon">
@@ -73,19 +74,21 @@
                                 <span>info@psychotherapy-kotnik.com</span>
                             </a>
                         </li>
-                        <!-- <li>
-                            <span class="icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-solid fa-gavel" />
-                                </span>
-                                <span>KVK number: to be acquired</span>
-                            </span>
-                        </li> -->
                     </ul>
                 </div>
-                <div class="column is-half-mobile is-narrow">
-                    <h6 class="title is-6 has-text-primary"><strong>My Practice Locations</strong></h6>
-                    <ul>
+                <!-- Links -->
+                <div class="column is-one-third-mobile is-narrow">
+                    <h6><strong>Links</strong></h6>
+                    <ul class="mt-3">
+                        <li><RouterLink :to="{ name: 'home' }">Psychotherapy Kotnik</RouterLink></li>
+                        <li><RouterLink :to="{ name: 'about_psychotherapy' }">About Psychotherapy</RouterLink></li>
+                        <li><RouterLink :to="{ name: 'about_me' }">About Me</RouterLink></li>
+                    </ul>
+                </div>
+                <!-- My Practice Locations -->
+                <div class="column is-one-third-mobile is-narrow">
+                    <h6><strong>My Practice Locations</strong></h6>
+                    <ul class="mt-3">
                         <li>
                             <div class="icon-text">
                                 <span class="icon">
@@ -105,11 +108,45 @@
                     </ul>
                 </div>
             </div>
-            <div class="columns is-centered is-mobile">
-                <div class="column is-3-mobile is-2-tablet is-1-desktop">
-                    <img src="@/assets/images/logo.webp" alt="psychotherapy_kotnik_logo">
+
+            <div class="columns is-multiline is-centered is-vcentered">
+                <div class="column is-1-desktop is-one-third-mobile">
+                    <figure>
+                        <a href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">
+                            <img src="@/assets/images/psihodinamska_logo.webp" alt="Institute_for_psychodynamic_psychotherapy_Slovenia">
+                        </a>
+                    </figure>
+                </div>
+                <div class="column is-2-desktop is-one-third-mobile">
+                    <figure>
+                        <a href="https://www.ezpps.si/" target="_blank" rel="noopener noreferrer">
+                            <img src="@/assets/images/ezpps_logo_v1.webp" alt="EZPPS">
+                        </a>
+                    </figure>
+                </div>
+                <div class="column is-2-desktop is-one-third-mobile">
+                    <figure>
+                        <a href="https://ecpp.ngo/" target="_blank" rel="noopener noreferrer">
+                            <img src="@/assets/images/ecppp_logo.webp" alt="ECPPP">
+                        </a>
+                    </figure>
+                </div>
+                <div class="column is-1-desktop is-one-quarter-mobile">
+                    <figure>
+                        <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
+                            <img src="@/assets/images/skzp_logo.webp" alt="SKZP">
+                        </a>
+                    </figure>
+                </div>
+                <div class="column is-2-desktop is-one-third-mobile">
+                    <figure>
+                        <a href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">
+                            <img src="@/assets/images/eap_logo.webp" alt="EAP">
+                        </a>
+                    </figure>
                 </div>
             </div>
+
             <div class="has-text-centered has-text-primary">
                 <p><span>Psychotherapy in Leeuwarden for Expats | Psychotherapy Kotnik</span> <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
 			</div>

@@ -24,59 +24,6 @@
             </div>
         </div>
     </section>
-
-    <section class="section">
-        <div class="container">
-            <div class="is-italic has-text-warning has-text-centered">
-                <p>
-                    <b>I Forgive Myself</b><br><br>For unlived dreams,<br>that in the moon’s silvery glow<br>invite me into the adventure of life.<br><br>For the fear of the unknown,<br>that binds me with golden spider silk<br>and keeps me from exploring the heart’s undiscovered realms.<br><br>For unspoken truths,<br>that glow in my heart like stars<br>and show me the path back to myself.<br><br>And for unexpressed love,<br>that resonates within me like a mighty bronze bell<br>and transforms feelings into poems.<br><br>— Denis Kotnik<br>(published on the Slovenian Pesem portal in September 2019)
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section class="section">
-        <div class="container">
-            <h3 class="title is-5 has-text-primary">Links</h3>
-            <div class="columns is-multiline is-centered has-text-centered is-mobile is-vcentered">
-                <div class="column is-2-desktop is-one-third-mobile">
-                    <figure>
-                        <a href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/psihodinamska_logo.webp" alt="Institute_for_psychodynamic_psychotherapy_Slovenia">
-                        </a>
-                    </figure>
-                </div>
-                <div class="column is-2-desktop is-one-third-mobile">
-                    <figure>
-                        <a href="https://www.ezpps.si/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/ezpps_logo_v1.webp" alt="EZPPS">
-                        </a>
-                    </figure>
-                </div>
-                <div class="column is-2-desktop is-one-third-mobile">
-                    <figure>
-                        <a href="https://ecpp.ngo/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/ecppp_logo.webp" alt="ECPPP">
-                        </a>
-                    </figure>
-                </div>
-                <div class="column is-1-desktop is-one-quarter-mobile">
-                    <figure>
-                        <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/skzp_logo.webp" alt="SKZP">
-                        </a>
-                    </figure>
-                </div>
-                <div class="column is-2-desktop is-one-third-mobile">
-                    <figure>
-                        <a href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/eap_logo.webp" alt="EAP">
-                        </a>
-                    </figure>
-                </div>
-            </div>
-        </div>
-    </section>
 </template>
 
 <script>
