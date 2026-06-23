@@ -2,7 +2,7 @@
     <!-- Hero -->
     <section class="hero is-medium">
         <figure>
-            <img src="@/assets/images/sea_1.webp"  alt="Home_image" class="hero-bg-img"/>
+            <img src="@/assets/images/tree_2.webp"  alt="Home_image" class="hero-bg-img"/>
         </figure>
         <div class="hero-body">
             <div class="container">
@@ -25,7 +25,7 @@
                         Together we will explore recurring patterns, authentic emotional expression, and unconscious processes that may influence your life. Through this process, many people gain a deeper understanding of themselves, emotional relief, and the possibility of more authentic and fulfilling relationships with themselves and others.
                     </p>
                     <div class="has-text-centered py-5">
-                        <RouterLink class="button is-primary is-outlined" :to="{ name: 'about_psychotherapy' }">More about psychotherapy</RouterLink>
+                        <RouterLink class="button is-warning is-outlined" :to="{ name: 'about_psychotherapy' }">More about psychotherapy</RouterLink>
                     </div>
                 </div>
                 <div class="column is-golden-side has-text-centered">
@@ -132,7 +132,7 @@ export default {
         width: 100%;
         height: 100%;
         object-fit: cover;
-        object-position: 100% 52%;
+        object-position: 100% 62%;
     }
 
     .price {
