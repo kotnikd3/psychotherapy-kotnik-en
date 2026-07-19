@@ -69,7 +69,7 @@
                 },
                 notificationSuccess: {
                     show: false,
-                    message: "Email sent",
+                    message: "Email sent. If you do not receive my reply within the next few days, please check your spam or junk folder, as my response may have been filtered there by mistake.",
                 },
                 notificationError: {
                     show: false,
