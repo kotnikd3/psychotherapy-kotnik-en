@@ -5,7 +5,7 @@
                 <RouterLink class="navbar-item" :to="{ name: 'home' }" @click="isMenuActive = false;">
                     <img src="@/assets/images/logo.webp" alt="psychotherapy_kotnik_logo">
                 </RouterLink>
-                <RouterLink class="navbar-item" :to="{ name: 'home' }" @click="isMenuActive = false;">Psychotherapy Kotnik</RouterLink>
+                <RouterLink class="navbar-item" :to="{ name: 'home' }" @click="isMenuActive = false;">Psychotherapy Denis Kotnik</RouterLink>
                 <a 
                     role="button" 
                     :class="['navbar-burger', { 'is-active' : isMenuActive }]"
@@ -24,7 +24,6 @@
             <div id="navMenu" :class="['navbar-menu', { 'is-active' : isMenuActive }]">
                 <div class="navbar-end">
                     <RouterLink class="navbar-item" :to="{ name: 'about_psychotherapy' }" @click="isMenuActive = false;">About Psychotherapy</RouterLink>
-                    <RouterLink class="navbar-item" :to="{ name: 'about_me' }" @click="isMenuActive = false;">About Me</RouterLink>
                     <div class="navbar-item">
                         <a class="button is-primary is-outlined is-small" href="https://psihoterapija-kotnik.si" target="_blank" rel="noopener noreferrer">
                             <span class="icon">
@@ -80,9 +79,8 @@
                 <div class="column is-half-mobile is-2-desktop">
                     <h6><strong>Links</strong></h6>
                     <ul class="mt-3">
-                        <li><RouterLink :to="{ name: 'home' }">Psychotherapy Kotnik</RouterLink></li>
+                        <li><RouterLink :to="{ name: 'home' }">Psychotherapy Denis Kotnik</RouterLink></li>
                         <li><RouterLink :to="{ name: 'about_psychotherapy' }">About Psychotherapy</RouterLink></li>
-                        <li><RouterLink :to="{ name: 'about_me' }">About Me</RouterLink></li>
                     </ul>
                 </div>
                 <!-- My Practice Locations -->
@@ -94,7 +92,7 @@
                                 <span class="icon">
                                     <font-awesome-icon icon="fa-solid fa-location-dot" />
                                 </span>
-                                <span>Leeuwarden<br>The Netherlands</span>
+                                <span>Leeuwarden,<br>The Netherlands</span>
                             </div>
                         </li>
                         <li>
@@ -113,42 +111,42 @@
                 <div class="column is-1-desktop is-one-third-mobile">
                     <figure>
                         <a href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/psihodinamska_logo.webp" alt="Institute_for_psychodynamic_psychotherapy_Slovenia">
+                            <img src="@/assets/images/psihodinamska_logo.webp" alt="Institute_for_psychodynamic_psychotherapy_Slovenia" style="width: 80%;">
                         </a>
                     </figure>
                 </div>
                 <div class="column is-2-desktop is-one-third-mobile">
                     <figure>
                         <a href="https://www.ezpps.si/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/ezpps_logo_v1.webp" alt="EZPPS">
+                            <img src="@/assets/images/ezpps_logo_v1.webp" alt="EZPPS" style="width: 80%;">
                         </a>
                     </figure>
                 </div>
                 <div class="column is-2-desktop is-one-third-mobile">
                     <figure>
                         <a href="https://ecpp.ngo/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/ecppp_logo.webp" alt="ECPPP">
+                            <img src="@/assets/images/ecppp_logo.webp" alt="ECPPP" style="width: 80%;">
                         </a>
                     </figure>
                 </div>
                 <div class="column is-1-desktop is-one-quarter-mobile">
                     <figure>
                         <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/skzp_logo.webp" alt="SKZP">
+                            <img src="@/assets/images/skzp_logo.webp" alt="SKZP" style="width: 60%;">
                         </a>
                     </figure>
                 </div>
                 <div class="column is-2-desktop is-one-third-mobile">
                     <figure>
                         <a href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/eap_logo.webp" alt="EAP">
+                            <img src="@/assets/images/eap_logo.webp" alt="EAP" style="width: 60%;">
                         </a>
                     </figure>
                 </div>
             </div>
 
             <div class="has-text-centered has-text-primary">
-                <p><span>Psychotherapy in Leeuwarden for Expats | Psychotherapy Kotnik</span> <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
+                <p><span>Psychotherapy Denis Kotnik</span> <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
 			</div>
         </div>
     </footer>

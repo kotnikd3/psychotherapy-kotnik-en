@@ -1,6 +1,6 @@
 # psychotherapy-kotnik
 
-Vue.js + Bulma static website about Psychotherapy Kotnik in English language.
+Vue.js + Bulma static website about Psychotherapy Denis Kotnik in English language.
 
 
 ## Project Setup
