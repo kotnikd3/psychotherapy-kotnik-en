@@ -64,84 +64,82 @@
                 <!-- Contact -->
                 <div class="column is-half-mobile is-offset-3-desktop is-3-desktop">
                     <h6><strong>Contact</strong></h6>
-                    <ul class="mt-3">
-                        <li>
-                            <a href="mailto:info@psychotherapy-kotnik.com" class="icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-regular fa-envelope" />
-                                </span>
-                                <span>info@psychotherapy-kotnik.com</span>
-                            </a>
-                        </li>
-                    </ul>
+                    <div class="mt-3">
+                        <a href="mailto:info@psychotherapy-kotnik.com" class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-regular fa-envelope" />
+                            </span>
+                            <span>info@psychotherapy-kotnik.com</span>
+                        </a>
+                    </div>
                 </div>
                 <!-- Links -->
                 <div class="column is-half-mobile is-2-desktop">
                     <h6><strong>Links</strong></h6>
-                    <ul class="mt-3">
-                        <li><RouterLink :to="{ name: 'home' }">Psychotherapy Denis Kotnik</RouterLink></li>
-                        <li><RouterLink :to="{ name: 'about_psychotherapy' }">About Psychotherapy</RouterLink></li>
-                    </ul>
+                    <div class="mt-3">
+                        <p><RouterLink :to="{ name: 'home' }">Psychotherapy Denis Kotnik</RouterLink></p>
+                        <p><RouterLink :to="{ name: 'about_psychotherapy' }">About Psychotherapy</RouterLink></p>
+                    </div>
                 </div>
                 <!-- My Practice Locations -->
                 <div class="column is-full-mobile is-4-desktop">
                     <h6><strong>My Practice Locations</strong></h6>
-                    <ul class="mt-3">
-                        <li>
-                            <div class="icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-solid fa-location-dot" />
-                                </span>
-                                <span>Leeuwarden,<br>The Netherlands</span>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-solid fa-location-dot" />
-                                </span>
-                                <span>online</span>
-                            </div>
-                        </li>
-                    </ul>
+                    <div class="mt-3">
+                        <div class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-solid fa-location-dot" />
+                            </span>
+                            <span>Leeuwarden,<br>The Netherlands</span>
+                        </div>
+                        <div class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-solid fa-location-dot" />
+                            </span>
+                            <span>online</span>
+                        </div>
+                    </div>
                 </div>
             </div>
 
-            <div class="columns is-mobile is-multiline is-centered is-vcentered">
-                <div class="column is-1-desktop is-one-third-mobile">
-                    <figure>
-                        <a href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/psihodinamska_logo.webp" alt="Institute_for_psychodynamic_psychotherapy_Slovenia" style="width: 80%;">
-                        </a>
-                    </figure>
-                </div>
-                <div class="column is-2-desktop is-one-third-mobile">
-                    <figure>
-                        <a href="https://www.ezpps.si/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/ezpps_logo_v1.webp" alt="EZPPS" style="width: 80%;">
-                        </a>
-                    </figure>
-                </div>
-                <div class="column is-2-desktop is-one-third-mobile">
-                    <figure>
-                        <a href="https://ecpp.ngo/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/ecppp_logo.webp" alt="ECPPP" style="width: 80%;">
-                        </a>
-                    </figure>
-                </div>
-                <div class="column is-1-desktop is-one-quarter-mobile">
-                    <figure>
-                        <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/skzp_logo.webp" alt="SKZP" style="width: 60%;">
-                        </a>
-                    </figure>
-                </div>
-                <div class="column is-2-desktop is-one-third-mobile">
-                    <figure>
-                        <a href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">
-                            <img src="@/assets/images/eap_logo.webp" alt="EAP" style="width: 60%;">
-                        </a>
-                    </figure>
+            <div class="columns is-centered">
+                <div class="column is-two-thirds">
+                    <div class="columns is-mobile is-centered is-vcentered is-multiline">
+                        <div class="column is-1-desktop is-one-quarter-mobile">
+                            <figure>
+                                <a href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">
+                                    <img src="@/assets/images/psihodinamska_logo.webp" alt="Institute_for_psychodynamic_psychotherapy_Slovenia">
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="column is-2-desktop is-one-third-mobile">
+                            <figure>
+                                <a href="https://www.ezpps.si/" target="_blank" rel="noopener noreferrer">
+                                    <img src="@/assets/images/ezpps_logo_v1.webp" alt="EZPPS">
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="column is-2-desktop is-one-third-mobile">
+                            <figure>
+                                <a href="https://ecpp.ngo/" target="_blank" rel="noopener noreferrer">
+                                    <img src="@/assets/images/ecppp_logo.webp" alt="ECPPP">
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="column is-1-desktop is-one-fifth-mobile">
+                            <figure>
+                                <a href="https://www.skzp.si/" target="_blank" rel="noopener noreferrer">
+                                    <img src="@/assets/images/skzp_logo.webp" alt="SKZP">
+                                </a>
+                            </figure>
+                        </div>
+                        <div class="column is-2-desktop is-one-third-mobile">
+                            <figure>
+                                <a href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">
+                                    <img src="@/assets/images/eap_logo.webp" alt="EAP">
+                                </a>
+                            </figure>
+                        </div>
+                    </div>
                 </div>
             </div>
 

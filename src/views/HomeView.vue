@@ -12,7 +12,7 @@
     </section>
 
     <section class="section">
-        <div class="container">
+        <div class="container my-5">
             <h3 class="title is-4 has-text-primary">Welcome!</h3>
             <p>
                 My name is Denis and I offer <b>psychodynamic psychotherapy</b> in Leeuwarden, The Netherlands, and online. I incorporate body-based techniques into the therapeutic process, as emotions and impulses are always present in the body as well. The combination of psychoanalytic understanding and body-oriented work allows for lasting change and for processes to unfold here and now — within a safe and accepting therapeutic relationship.
@@ -21,14 +21,14 @@
                 <br><br>
                 Together we will explore recurring patterns, authentic emotional expression, and unconscious processes that may influence your life. Through this process, many people gain a deeper understanding of themselves, emotional relief, and the possibility of more authentic and fulfilling relationships with themselves and others.
             </p>
-            <div class="has-text-centered pt-5">
+            <div class="has-text-centered pt-6">
                 <RouterLink class="button is-warning is-outlined" :to="{ name: 'about_psychotherapy' }">More about psychotherapy</RouterLink>
             </div>
         </div>
     </section>
 
     <section class="section custom-color">
-        <div class="container">
+        <div class="container my-5">
             <div class="columns is-vcentered">
                 <div class="column is-golden-side has-text-centered">
                     <figure class="image">
@@ -60,7 +60,7 @@
         </div>
     </section>
     <section class="section">
-        <div class="container">
+        <div class="container my-5">
             <div class="columns is-vcentered">
                 <div class="column is-golden-main">
                     <div class="block">
