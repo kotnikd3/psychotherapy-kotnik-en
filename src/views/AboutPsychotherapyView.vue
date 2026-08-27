@@ -5,7 +5,7 @@
                 <div class="column is-golden-main content">
                     <h3 class="title is-5 has-text-primary">What is Psychodynamic Psychotherapy?</h3>
                     <div class="block">
-                        Psychodynamic psychotherapy is a <b>talking treatment</b> based on idea that thoughts and feelings that you may not be aware of can cause problems such as anxiety, depression, poor self esteem, and difficulty with relationships. It is a modified form of <b>psychoanalysis</b> based on the theoretical foundations of psychoanalytic theory: the general and specialized theory of <b>neuroses</b>, <b>psychoanalytic developmental theory</b>, and the concepts of <b>transference</b>, <b>countertransference</b>, <b>defense mechanisms</b>, and <b>resistance</b>.
+                        Psychodynamic psychotherapy is a <b>talking treatment</b> based on idea that thoughts and feelings that you may not be aware of can cause problems such as anxiety, depression, poor self esteem, and difficulty with relationships.
                     </div>
                     <div class="block">
                         One way that we deal with painful or difficult thoughts and feelings is to put them out of our minds–that is, to make them <strong>unconscious</strong>. But even though we do not think about them, those unconscious thoughts and feelings affect how we think, feel, and behave. For example, it might be hard for you to have angry feelings towards someone you love because you think you shouldn’t have them. Nevertheless, they might continue to affect your relationship. Psychodynamic psychotherapy provides a space for developing new, healthier ways of coping with these issues.
