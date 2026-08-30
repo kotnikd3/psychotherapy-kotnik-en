@@ -113,7 +113,7 @@
                         </div>
                         <div class="column is-2-desktop is-one-third-mobile">
                             <figure>
-                                <a href="https://www.ezpps.si/" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.ezpps.si/clani/denis-kotnik" target="_blank" rel="noopener noreferrer">
                                     <img src="@/assets/images/ezpps_logo_v1.webp" alt="EZPPS">
                                 </a>
                             </figure>
