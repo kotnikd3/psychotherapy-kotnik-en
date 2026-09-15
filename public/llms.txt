@@ -1,0 +1,17 @@
+# Psychotherapy Denis Kotnik
+
+> English-language website for Denis Kotnik’s psychodynamic psychotherapy practice, offering sessions online and in Leeuwarden.
+
+The website introduces Denis Kotnik’s psychotherapy practice, areas of support, professional background, and answers to common questions about psychodynamic psychotherapy.
+
+## Main pages
+
+- [Psychotherapy Denis Kotnik](https://psychotherapy-kotnik.com/): Overview of the practice, areas of support, therapist, and contact options.
+- [About psychotherapy](https://psychotherapy-kotnik.com/about-psychotherapy): Information about psychodynamic psychotherapy, the therapeutic process, common questions, and evidence for its effectiveness.
+
+## Additional resources
+
+- [Slovenian website](https://psihoterapija-kotnik.si/): Slovenian-language version of the website.
+- [Sitemap](https://psychotherapy-kotnik.com/sitemap.xml): List of public pages on this website.
+
+The information on this website is general and is not a substitute for an individual professional assessment, diagnosis, or emergency assistance.
