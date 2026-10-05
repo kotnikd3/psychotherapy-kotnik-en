@@ -71,6 +71,12 @@
                             </span>
                             <span>info@psychotherapy-kotnik.com</span>
                         </a>
+                        <p class="icon-text">
+                            <span class="icon">
+                                <font-awesome-icon icon="fa-solid fa-gavel" />
+                            </span>
+                            <span>KvK: being obtained</span>
+                        </p>
                     </div>
                 </div>
                 <!-- Links -->
