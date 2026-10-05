@@ -79,7 +79,7 @@
                     </div>
                 </div>
                 <div class="column is-golden-side has-text-centered">
-                    <img class="img-denis-kotnik" src="@/assets/images/denis_kotnik.webp" alt="Denis_Kotnik" style="width: 80%;">
+                    <img class="img-denis-kotnik" src="@/assets/images/denis_kotnik.webp" alt="Denis_Kotnik" style="width: 80%; border: 2px double #b26a4b;">
                 </div>
             </div>
         </div>
