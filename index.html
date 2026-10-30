@@ -18,23 +18,22 @@
                 "@graph": [
                     {
                         "@type": "Person",
-                        "@id": "https://www.psychotherapy-kotnik.com/about-me",
                         "name": "Psychotherapy Denis Kotnik",
                         "description": "I offer psychotherapy in Leeuwarden in a safe space where we can explore unconscious patterns and develop a deeper understanding of oneself.",
                         "jobTitle": "Psychotherapeut",
-                        "image": "https://www.psychotherapy-kotnik.com/static/denis_kotnik.webp",
-                        "url": "https://www.psychotherapy-kotnik.com",
+                        "image": "https://psychotherapy-kotnik.com/static/denis_kotnik.webp",
+                        "url": "https://psychotherapy-kotnik.com",
                         "worksFor": {
-                            "@id": "https://www.psychotherapy-kotnik.com"
+                            "@id": "https://psychotherapy-kotnik.com"
                         }
                     },
                     {
                         "@type": "MedicalBusiness",
-                        "@id": "https://www.psychotherapy-kotnik.com",
+                        "@id": "https://psychotherapy-kotnik.com",
                         "name": "Psychotherapy Denis Kotnik",
                         "description": "I offer psychotherapy in Leeuwarden in a safe space where we can explore unconscious patterns and develop a deeper understanding of oneself.",
-                        "image": "https://www.psychotherapy-kotnik.com/static/denis_kotnik.webp",
-                        "url": "https://www.psychotherapy-kotnik.com",
+                        "image": "https://psychotherapy-kotnik.com/static/denis_kotnik.webp",
+                        "url": "https://psychotherapy-kotnik.com",
                         "priceRange": "€70",
                         "address": {
                             "@type": "PostalAddress",
@@ -45,32 +44,21 @@
                         },
                         "openingHours": "Mo-Fr 09:00-17:00",
                         "founder": {
-                            "@id": "https://www.psychotherapy-kotnik.com/about-me"
+                            "@type": "Person",
+                            "name": "Denis Kotnik"
                         }
                     }
                 ]
             }
         </script>
 
-        <!-- Multilingual support -->
-        <link rel="alternate" hreflang="en" href="https://psychotherapy-kotnik.com/" />
-        <link rel="alternate" hreflang="sl" href="https://psihoterapija-kotnik.si/" />
-        <link rel="alternate" hreflang="x-default" href="https://psychotherapy-kotnik.com/" />
-
-        <!-- Canonical -->
-        <link rel="canonical" href="https://psychotherapy-kotnik.com/" />
-
         <!-- Standard meta -->
         <meta charset="UTF-8">
-        <meta name="description" content="I offer psychotherapy in Leeuwarden in a safe space where we can explore unconscious patterns and develop a deeper understanding of oneself.">
         <meta name="author" content="Denis Kotnik">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- Open Graph -->
-        <meta property="og:title" content="Psychotherapy Denis Kotnik">
-        <meta property="og:description" content="I offer psychotherapy in Leeuwarden in a safe space where we can explore unconscious patterns and develop a deeper understanding of oneself.">
         <meta property="og:image" content="https://psychotherapy-kotnik.com/static/logo.png">
-        <meta property="og:url" content="https://psychotherapy-kotnik.com/">
         <meta property="og:type" content="website">
 
         <!-- Favicon -->
@@ -80,15 +68,7 @@
     </head>
 
     <body class="has-navbar-fixed-top">
-        <main id="app">
-            <header class="navbar">
-                <strong>Psychotherapy Denis Kotnik</strong>
-            </header>
-
-            <main class="section">
-                <h1>Psychotherapy Denis Kotnik</h1>
-            </main>
-        </main>
+        <main id="app"></main>
         <script type="module" src="/src/main.js" defer></script>
     </body>
 </html>
