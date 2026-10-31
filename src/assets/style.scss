@@ -10,7 +10,7 @@
 // Override global Sass variables from the /utilities folder
 @use "bulma/sass/utilities" with(
     $primary: $color-primary,
-    $link: $color-primary,
+    $link: $color-secondary,
     $warning: $color-secondary,
     $family-primary: "'Open Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
 );
