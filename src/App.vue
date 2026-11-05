@@ -150,7 +150,7 @@
             </div>
 
             <p class="has-text-centered has-text-primary is-size-7 is-italic">
-                The two artworks above: In 't Gein bij Abcoude (Willem Roelofs) and Wanderer above the Sea of Fog (Caspar David Friedrich)
+                Artwork titles and artists: Calm Sea – Ivan Aivazovsky (1876); Wanderer above the Sea of Fog – Caspar David Friedrich (1818); Bori Zupančič (2025).
             </p>
 
             <div class="has-text-centered has-text-primary mt-3">

@@ -13,7 +13,7 @@
                         </div>
                     </div>
                     <div class="column is-golden-side has-text-centered">
-                        <img class="img-iceberg" src="@/assets/images/iceberg.svg" alt="Iceberg" style="width: 60%;">
+                        <img class="img-iceberg" src="@/assets/images/freud.webp" alt="Freud" style="width: 50%;">
                     </div>
                 </div>
             </div>
